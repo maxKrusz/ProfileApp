@@ -8,21 +8,21 @@
                 }
             },
             "assets": {
-                "65120690aaa9ea6e6e86db47": {
+                "65247667f80dad22066e556b": {
                     "externalStorageType": "GCS",
-                    "_id": "65120690aaa9ea6e6e86db47",
+                    "_id": "65247667f80dad22066e556b",
                     "size": "26288",
                     "mimetype": "image/png",
                     "encoding": "7bit",
                     "originalname": "maxgram-low-resolution-logo-black-on-transparent-background.png",
-                    "backendURI": "/project/6509acdf9fb7fe6712738204/getasset/65120690aaa9ea6e6e86db47",
+                    "backendURI": "/project/65247667f80dad5be16e5569/getasset/65247667f80dad22066e556b",
                     "name": "maxgram-low-resolution-logo-black-on-transparent-background.png",
-                    "externalName": "users/64f9cfef7a354da795a9ebb4/projects/6509acdf9fb7fe6712738204/assets/65120690aaa9ea6e6e86db47",
+                    "externalName": "users/64f9cfd25b362b920a0abf4e/projects/65247667f80dad5be16e5569/assets/65247667f80dad22066e556b",
                     "createdAt": "2023-09-25T22:15:44.697Z",
                     "updatedAt": "2023-09-25T22:15:44.697Z",
                     "__v": 0,
-                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f9cfef7a354da795a9ebb4/projects/6509acdf9fb7fe6712738204/assets/65120690aaa9ea6e6e86db47?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20230925%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230925T221544Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=6a1620ba74d2b3755a333cda0478b72625ecef528afb54ba6155eea29e234b45bfa0a619bd73d4ad07aff3c1962111fbeaf2d97f400b149b6cc5441346a0f584bcde47d7032ccd76250adba6244f510c6b8325ab056721921933dc4e5768da707fcbda16483ac454f85d6c5b630faeca9d59f54b37e32716cfb574d82c6005d663023240d9a55fb3a473933c54572142066e5b9a0f77b02b440b5eeec4026394a221cb1b7b6fbe5bba68c5c7f568b7a535b0a62c5449aa3c854b9f90377f18b96f32b1c1b3b24dcdb9c34fbe3a2e7920fde3bbfe0548439e6fe211dac12473482c5310ce845afb06460f1324cbd97b95faa3522d70bfbfb4677e75240059f940",
-                    "signedUrlExpirationTime": 1695852944733
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f9cfd25b362b920a0abf4e/projects/65247667f80dad5be16e5569/assets/65247667f80dad22066e556b?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231009%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231009T215422Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=3a7f3fc87edbca6c6bce9b821e143753c933aaff97e219037d026f3ad709c02671976a39bef928420310f1d2e4cffb3fb04d4e37b322d3e963898f25e59443a9831a772b738a0ff3c005686377d75642ab24c47c4dc48bb86032c0475a13bd1df4e2b697e649c0c62f38e850939a54131bc9c1a2fcdf020825ea0fb32568aa901537d5a70a092f40164190e1af950a1b9124cc34baece86d35d3caaa4256e256b38d059f9c258f232f064fd17f6251b21d899080d9832c5f113d362c07908ec289a45bd8674831c83a8e20e17faca35d5a9c3be1fc414eb0362776e5994978b478b4f8059013a949c77ebeefadd64bb83c25ed3403d3f6ab73922f47900bb243",
+                    "signedUrlExpirationTime": 1697061262980
                 }
             },
             "backendUpgradeVersion": 21,
@@ -67,12 +67,18 @@
             ],
             "components": {
                 "children": [
-                    "Sign In Screen.f50a43ad-dd4e-4223-9163-8a6875a27a3b",
-                    "Profile Screen.54487396-e556-4938-bd6c-0339bb00074f",
-                    "Sign Out Screen.02558ac4-65bb-4e10-a213-03d8844f4076"
+                    {
+                        "id": "f50a43ad-dd4e-4223-9163-8a6875a27a3b"
+                    },
+                    {
+                        "id": "54487396-e556-4938-bd6c-0339bb00074f"
+                    },
+                    {
+                        "id": "02558ac4-65bb-4e10-a213-03d8844f4076"
+                    }
                 ]
             },
-            "figmaComponents": {},
+            "figmaComponents": null,
             "description": null,
             "icon": null,
             "projectName": "ProfileApp",
@@ -118,7 +124,7 @@
                 "appleOAuthWebClientID": null,
                 "appleOAuthWebRedirectURI": null,
                 "admobAppIdIOS": null,
-                "admobAppIdAndroid": null,
+                "admobAppIdAndroid": "ca-app-pub-6963176533374051/9546855010",
                 "admobUserTrackingUsageDescription": null,
                 "__typename": "ProjectSettings"
             },
@@ -164,11 +170,11 @@
                 "appleOAuthWebClientID": null,
                 "appleOAuthWebRedirectURI": null,
                 "admobAppIdIOS": null,
-                "admobAppIdAndroid": null,
+                "admobAppIdAndroid": "ca-app-pub-6963176533374051/9546855010",
                 "admobUserTrackingUsageDescription": null,
                 "__typename": "ProjectSettings"
             },
-            "hasAdmob": false,
+            "hasAdmob": true,
             "hasBluetoothLowEnergy": null,
             "hasPushNotification": false,
             "hasAssistant": null,
